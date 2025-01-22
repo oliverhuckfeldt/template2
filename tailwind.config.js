@@ -7,7 +7,10 @@ module.exports = {
     },
     colors: {
       'primary': '#f44336',
-      'background': '#ffffff'
+      'light': '#fff',
+      'background': '#fff',
+      'body': '#000',
+      'test-highlight': '#f9f9f9'
     },
     extend: {},
   },
